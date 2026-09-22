@@ -1,0 +1,13 @@
+.git
+.gitignore
+.github
+.vscode
+.idea
+build
+.dart_tool
+.packages
+.pub-cache
+.pub
+*.log
+*.iml
+.DS_Store
